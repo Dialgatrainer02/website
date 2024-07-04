@@ -5,6 +5,8 @@ const items: Array<{ id: string; name: string; link: string }> = [
 
   { id: "two", name: 'About', link: "/about" },
 
+  { id: "three", name: "holidays", link: "/holidays" }
+
 ];
 
 useHead

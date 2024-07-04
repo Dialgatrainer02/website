@@ -1,11 +1,10 @@
 <template>
   <NuxtLayout>
       <template #title>
-          About
+          The Holidays
       </template>
       <template #content>
-          hello im olivia barker.<br/>
-          student at west sullfolk college
+          i did stuff your more intrested in the website than what i did so im not bothering to fill this out
       </template>
       <template #button>
           <NuxtLink class="link" to="/">Home</NuxtLink>
