@@ -1,13 +1,13 @@
 <template>
     <NuxtLayout>
         <template #title>
-            home
+            <h1>Home</h1>
         </template>
         <template #content>
-            ooo
+            this is the main hero part of the website scroll down to continue
         </template>
         <template #button>
-            more testing
+            <NuxtLink class="link" to="/about">About</NuxtLink>
         </template>
    </NuxtLayout>
 </template>
