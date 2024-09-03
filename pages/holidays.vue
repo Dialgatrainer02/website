@@ -4,7 +4,12 @@
           The Holidays
       </template>
       <template #content>
-          i did stuff your more intrested in the website than what i did so im not bothering to fill this out
+          <h2 class="text-lg">wales</h2>
+          <p>i went to wales to see my dads side of the family we went for walk up a hil called blorenge
+            <NuxtImg src="https://files.holidaycottages.co.uk/breconcottages%2Fguides%2F1621957833519-abergavenny+town.jpg"></NuxtImg>
+          </p>
+          <h2 class="text-lg"> south coast</h2>
+          <p> i went down to lymington too see my grandparents</p>
       </template>
       <template #button>
           <NuxtLink class="link" to="/">Home</NuxtLink>
